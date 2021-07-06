@@ -1,1 +1,0 @@
-# Hadoop_JavaApi_tamplates
